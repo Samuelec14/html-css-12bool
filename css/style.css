@@ -1,3 +1,5 @@
+@import url(12bool.css);
+
 /* RESET 
  */
     *{
@@ -9,5 +11,17 @@
 /* GENERAL 
 */
     *{
-        font-family: ...;
+        font-family: Arial, Helvetica, sans-serif;
     }
+
+    [class*="col"]{
+        background-color: aquamarine;
+        border: 1px solid white;
+        min-height: 2rem;
+    }
+
+/* MAIN 
+*/
+main .row div{
+    text-align: center;
+}
