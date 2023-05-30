@@ -15,13 +15,35 @@
     }
 
     [class*="col"]{
-        background-color: aquamarine;
         border: 1px solid white;
         min-height: 2rem;
+        padding: .6125rem;
     }
+    .blue-col{
+        background-color: aquamarine;
+    }
+    .green-col{
+        background-color: green;
+    }
+    section{
+        margin-bottom: 1.55rem;
+    }
+
 
 /* MAIN 
 */
+/* <!-- SECTION 1 -->
+ */
 main .row div{
     text-align: center;
 }
+
+
+
+/* <!-- SECTION 2 -->
+ */
+
+
+
+/* <!-- SECTION 3 -->
+ */
