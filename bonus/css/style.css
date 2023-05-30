@@ -1,0 +1,51 @@
+@import url(12bool.css);
+
+/* RESET 
+ */
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+/* GENERAL 
+*/
+    *{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .container{
+        max-width: 1000px;
+        margin: 5.5rem auto;
+    }
+
+    [class*="col"]{
+        min-height: 4.5rem;
+    }
+    .black-pixel{
+        background-color: black;
+    }
+
+
+
+
+/* MAIN 
+*/
+/* <!-- SECTION 1 -->
+ */
+h1{
+    text-align: center;
+    margin-bottom: 1.25rem;
+}
+main .row div{
+    text-align: center;
+}
+
+
+
+/* <!-- SECTION 2 -->
+ */
+
+
+
+/* <!-- SECTION 3 -->
+ */
